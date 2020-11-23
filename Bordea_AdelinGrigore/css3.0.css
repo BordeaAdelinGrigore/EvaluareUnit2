@@ -1,0 +1,44 @@
+body {
+  background-color: Moccasin;
+}
+table, th, td {
+  border: 2px solid red;
+  border-radius: 2px;
+  background-color: #f542b0;
+
+}
+}
+h1{
+	
+}
+h1{ 
+	color:DarkBlue
+  font-style: Lucida Console;
+   
+}
+
+ul{
+	color:red;
+  font-style: verdana;
+   background-color: yellow;
+}
+ol{
+	color:green;
+  font-style: Courier New;
+   background-color: orange;
+}
+p{
+	color:orange;
+  font-style: Georgia;
+}
+h3{
+	color:#4251f5;
+  font-style: Arial;
+
+}
+
+img {
+ 
+  border-radius: 15px 50px 30px 5px;
+  opacity: 0.9;
+}
